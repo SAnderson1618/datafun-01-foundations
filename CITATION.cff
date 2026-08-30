@@ -17,13 +17,12 @@ version: "1.2.0"
 date-released: "2026-08-20"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
-    orcid: "https://orcid.org/0000-0001-6165-7389"
+  - family-names: Anderson
+    given-names: Steven
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/datafun-01-foundations"
-url: "https://github.com/denisecase/datafun-01-foundations"
+repository-code: "https://github.com/SAnderson1618/datafun-01-foundations"
+url: "https://sanderson1618.github.io/datafun-01-foundations/"
 license: MIT
 
 abstract: >
