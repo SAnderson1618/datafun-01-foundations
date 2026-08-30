@@ -1,5 +1,7 @@
 # datafun-01-foundations
 
+Hi, I'm Steven Anderson. This repository contains my project for my data analytics coursework that is focusing on Python and Git workflows.
+
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![uv managed](https://img.shields.io/badge/uv-managed-DE5FE9)](https://docs.astral.sh/uv/)
@@ -128,7 +130,7 @@ change directory (cd) into the new folder,
 and run `code .` to open only this project in VS Code:
 
 ```shell
-git clone https://github.com/denisecase/datafun-01-foundations
+git clone https://github.com/SAnderson1618/datafun-01-foundations
 
 cd datafun-01-foundations
 code .
