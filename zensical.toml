@@ -69,3 +69,8 @@ features = [
 # ------------------------------------------------------------
 # If no explicit navigation is provided,
 # then folder-based navigation will be used automatically.
+
+nav = [
+    { "Home" = "index.md" },
+    { "Tornado Analysis" = "tornado_project.md" }
+]

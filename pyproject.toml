@@ -130,3 +130,7 @@ requires = ["hatchling"]
 [tool.hatch.build.targets.wheel]
 # CUSTOM: Must match src/ folders.
 packages = ["src/datafun"]  # REQ.PACKAGES: Discovery rooted at src/.
+
+[project.urls]
+Homepage = "https://github.com/SAnderson1618/datafun-01-foundations"
+Issues = "https://github.com/SAnderson1618/datafun-01-foundations/issues"
